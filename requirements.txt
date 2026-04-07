@@ -5,3 +5,4 @@ sqlalchemy
 python-dotenv
 requests
 openai
+uvicorn==0.17.0
