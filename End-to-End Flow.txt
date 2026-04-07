@@ -1,0 +1,5 @@
+Simulator → API → Supabase DB
+           ↓
+     Rule Check → LLM RCA
+           ↓
+     Action Logged
